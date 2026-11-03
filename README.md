@@ -37,7 +37,7 @@
 
 Дизайн пользовательского интерфейса создан в Figma.
 
-**[Открыть макет в Figma](https://www.figma.com/)**
+**[Макет в Figma](https://www.figma.com/design/JtUuNvGTKVxIw2Szzr1Vqb/Untitled?node-id=0-1&p=f&t=c4KltEMYlhthgoKg-0)**
 
 Основные экраны:
 - Главная страница
