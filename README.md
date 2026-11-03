@@ -105,7 +105,7 @@ project/
 
 | Участник | Зона ответственности | GitHub |
 |----------|---------------------|--------|
-| Коваленко Захар | Координация команды, Backend | [Профиль](https://github.com/zahar-231-trpo) |
-| Отчев Артем | Серверная часть, БД, Tester | [Профиль](https://github.com/) |
-| Константинов Вадим | Frontend, Backend | [Профиль](https://github.com/) |
+| Коваленко Захар | Руководитель проекта, Backend, БД, Тестировщик| [Профиль](https://github.com/zahar-231-trpo) |
+| Отчев Артем | Frontend, Тестировщик, Дизайнер| [Профиль](https://github.com/crazensx) |
+| Константинов Вадим | Frontend, Backend | [Профиль](https://github.com/Iberfi) |
 
